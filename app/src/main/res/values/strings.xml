@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Project1</string>
+    <string name="app_name">Jazz Please</string>
 
     <!--splash-->
     <string name="version">B01.0001</string>
@@ -17,5 +17,12 @@
     <string name="daytwotgl">11 JANUARY 2020</string>
     <string name="daythree">DAY THREE</string>
     <string name="daythreetgl">12 JANUARY 2020</string>
-
+    
+    <!--lineup-->
+    <string name="fourplay">Fourplay</string>
+    <string name="desfourplay1">Fourplay is a contemporary jazz group in the United States. The original members of the group were Bob James (keyboards), Lee Ritenour (guitars), Nathan East (bass), and Harvey Mason (drums). In 1998, Lee Ritenour left the group and Fourplay chose Larry Carlton as his replacement.</string>
+    <string name="desfourplay2">Grammy nominated supergroup Fourplay has enjoyed consistent artistic and commercial success by grafting elements of R and B and pop to their unwavering jazz foundations. In a span of seventeen years and ten albums, the quartet has continued to explore the limitless dimensions and permutations of jazz while at the same time appealing to a broad mainstream audience.</string>
+    <string name="andien">Andien</string>
+    <string name="desandien1">A small jazz singer, Andien was born in Jakarta, August 25, 1985. His full name is Andini Aisyah Hariadi, Andien is the eldest of three children. His parents are Didiek Hariadi and Henny Sri Handini, his two younger brothers are Dias Kinanthi and Diego Yanuar.</string>
+    <string name="desandien2">Andien has studied music since he was three years old, started in the 3rd grade of elementary school, Andien has started performing at various music festivals. With the encouragement of his mother, Andien attended music education at EMS (Elfa Music Studio), led by Elfa Secioria. Until 2000, Andien released his debut album entitled Whisper of the Heart. The album is estimated to have sold over 30,000 copies.</string>
 </resources>

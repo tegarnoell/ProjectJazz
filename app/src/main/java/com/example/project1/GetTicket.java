@@ -90,4 +90,11 @@ public class GetTicket extends AppCompatActivity {
         Intent intent = new Intent(GetTicket.this, MainActivity.class);
         startActivity(intent);
     }
+
+    public void Lineup(View view) {
+        Intent intent = new Intent(GetTicket.this, Lineup.class);
+        startActivity(intent);
+    }
+
+
 }

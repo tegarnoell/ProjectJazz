@@ -17,4 +17,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this, GetTicket.class);
         startActivity(intent);
     }
+
+    public void Lineup(View view) {
+        Intent intent = new Intent(MainActivity.this, Lineup.class);
+        startActivity(intent);
+    }
 }
