@@ -175,7 +175,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="Lineup"
-            app:srcCompat="@drawable/draft_lineup_160x160px" />
+            app:srcCompat="@drawable/draft_lineup_160x160px"
+            tools:ignore="SpeakableTextPresentCheck" />
 
         <ImageView
             android:id="@+id/imageView10"
