@@ -96,5 +96,4 @@ public class GetTicket extends AppCompatActivity {
         startActivity(intent);
     }
 
-
 }
