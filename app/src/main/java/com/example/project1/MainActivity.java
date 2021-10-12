@@ -27,4 +27,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this, Advertisement.class);
         startActivity(intent);
     }
+
+    public void Newsfeed(View view) {
+        Intent intent = new Intent(MainActivity.this, Newsfeed.class);
+        startActivity(intent);
+    }
 }
