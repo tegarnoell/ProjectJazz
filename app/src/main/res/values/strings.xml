@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project1</string>
+
+    <!--splash-->
+    <string name="version">B01.0001</string>
+
+    <!--mainmenu-->
+    <string name="jakarta">JAKARTA</string>
+    <string name="tanggal">10-12 JANUARY 2020</string>
+    <string name="vanue">TBA</string>
+
+    <!--getyourticket-->
+    <string name="buy">BUY</string>
+    <string name="dayone">DAY ONE</string>
+    <string name="dayonetgl">10 JANUARY 2020</string>
+    <string name="daytwo">DAY TWO</string>
+    <string name="daytwotgl">11 JANUARY 2020</string>
+    <string name="daythree">DAY THREE</string>
+    <string name="daythreetgl">12 JANUARY 2020</string>
+
+</resources>
