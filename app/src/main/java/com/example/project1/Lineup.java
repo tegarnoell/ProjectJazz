@@ -23,4 +23,14 @@ public class Lineup extends AppCompatActivity {
         Intent intent = new Intent(Lineup.this, GetTicket.class);
         startActivity(intent);
     }
+
+    public void Newsfeed(View view) {
+        Intent intent = new Intent(Lineup.this, Newsfeed.class);
+        startActivity(intent);
+    }
+
+    public void Schedule(View view) {
+        Intent intent = new Intent(Lineup.this, Schedule.class);
+        startActivity(intent);
+    }
 }

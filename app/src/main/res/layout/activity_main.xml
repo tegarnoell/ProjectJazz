@@ -90,6 +90,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="Schedule"
             app:srcCompat="@drawable/draft_fixschedule_160x160" />
 
         <ImageView

@@ -32,4 +32,10 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this, Newsfeed.class);
         startActivity(intent);
     }
+
+    public void Schedule(View view) {
+        Intent intent = new Intent(MainActivity.this, Schedule.class);
+        startActivity(intent);
+    }
+
 }

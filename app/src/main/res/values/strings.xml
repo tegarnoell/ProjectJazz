@@ -25,4 +25,17 @@
     <string name="andien">Andien</string>
     <string name="desandien1">A small jazz singer, Andien was born in Jakarta, August 25, 1985. His full name is Andini Aisyah Hariadi, Andien is the eldest of three children. His parents are Didiek Hariadi and Henny Sri Handini, his two younger brothers are Dias Kinanthi and Diego Yanuar.</string>
     <string name="desandien2">Andien has studied music since he was three years old, started in the 3rd grade of elementary school, Andien has started performing at various music festivals. With the encouragement of his mother, Andien attended music education at EMS (Elfa Music Studio), led by Elfa Secioria. Until 2000, Andien released his debut album entitled Whisper of the Heart. The album is estimated to have sold over 30,000 copies.</string>
+    <string name="jamoroquai">Jamiroquai</string>
+    <string name="desjam">Jamiroquai are an English funk and acid jazz band from London. Formed in 1992, they are fronted by vocalist Jay Kay, and were prominent in the London-based funk and acid jazz movement of the 1990s. They built on their acid jazz sound in their early releases and later drew from rock, disco, electronic and Latin music genres. Lyrically, the group have addressed social and environmental justice. Kay has remained as the only original member through several line-up changes.</string>
+
+
+    <!--news-->
+    <string name="tgl1">15/10/2020 10.15</string>
+    <string name="judul1">Taylor Swift Cover</string>
+    <string name="penulis1">by Steve James</string>
+    <string name="tgl2">16/10/2020 06.34</string>
+    <string name="judul2">Opening Ceremony Jazz</string>
+    <string name="penulis2">by John Munch</string>
+
+    <string name="sch">Still waiting the confirmation artist.</string>
 </resources>

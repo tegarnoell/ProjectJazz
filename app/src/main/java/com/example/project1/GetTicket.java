@@ -96,4 +96,14 @@ public class GetTicket extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void Newsfeed(View view) {
+        Intent intent = new Intent(GetTicket.this, Newsfeed.class);
+        startActivity(intent);
+    }
+
+    public void Schedule(View view) {
+        Intent intent = new Intent(GetTicket.this, Schedule.class);
+        startActivity(intent);
+    }
+
 }

@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Project1">
         <activity
+            android:name=".Schedule"
+            android:exported="true" />
+        <activity
             android:name=".Newsfeed"
             android:exported="true" />
         <activity

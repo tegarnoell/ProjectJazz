@@ -29,4 +29,9 @@ public class Newsfeed extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void Schedule(View view) {
+        Intent intent = new Intent(Newsfeed.this, Schedule.class);
+        startActivity(intent);
+    }
+
 }
